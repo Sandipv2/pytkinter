@@ -1,0 +1,20 @@
+[
+    {
+        "name": "sandip",
+        "age": 19,
+        "phone": "1231231232",
+        "email": "sandip@sandip.com",
+        "from": "NY",
+        "to": "Pune",
+        "want_food_and_beverages": 1
+    },
+    {
+        "name": "krishna",
+        "age": 25,
+        "phone": "1231231232",
+        "email": "krishna@radha.com",
+        "from": "Vrindavan",
+        "to": "Mathura",
+        "want_food_and_beverages": 1
+    }
+]
